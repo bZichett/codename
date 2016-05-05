@@ -317,8 +317,6 @@ goose
 gopher
 gorilla
 grasshopper
-greyhound
-grizzly bear
 groundhog
 hamster
 hare
@@ -332,7 +330,6 @@ hornet
 horse
 human
 hummingbird
-humpback whale
 husky
 hyena
 ibis
@@ -351,7 +348,6 @@ koala
 kookaburra
 krill
 ladybug
-lanternfish
 larva
 lemming
 lemur
@@ -360,7 +356,6 @@ lion
 llama
 lobster
 locust
-loggerhead turtle
 loris
 louse
 lynx
@@ -376,10 +371,8 @@ mamba
 mantid
 mantis
 marmoset
-marmot
 marsupial
 mastiff
-mastodon
 meadowlark
 mealworm
 meerkat
@@ -449,7 +442,6 @@ pufferfish
 puffin
 pug
 puma
-pupa
 pupfish
 python
 quail
@@ -485,7 +477,6 @@ shrew
 shrimp
 silkworm
 silverfish
-skink
 skipper
 skunk
 sloth
@@ -496,7 +487,6 @@ snapper
 sparrow
 spider
 sponge
-spotted owl
 springtail
 squid
 squirrel
@@ -522,8 +512,6 @@ toad
 tortoise
 toucan
 treefrog
-Triceratops
-Trilobite
 trout
 tuna
 turkey
@@ -537,7 +525,6 @@ wasp
 weasel
 weevil
 whale
-whale shark
 whelk
 whippet
 wildebeest
@@ -551,6 +538,3 @@ wren
 yak
 yellowjacket
 zebra
-zooplankton
-zorilla
-zorro
